@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/semana13/static/css/main.073c9b0a.css",
+    "main.js": "/semana13/static/js/main.c55675d9.js",
+    "static/js/787.cc4e593a.chunk.js": "/semana13/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/semana13/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/semana13/index.html",
+    "main.073c9b0a.css.map": "/semana13/static/css/main.073c9b0a.css.map",
+    "main.c55675d9.js.map": "/semana13/static/js/main.c55675d9.js.map",
+    "787.cc4e593a.chunk.js.map": "/semana13/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c55675d9.js"
+  ]
+}
